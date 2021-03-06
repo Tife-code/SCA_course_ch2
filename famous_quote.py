@@ -1,0 +1,1 @@
+print('WILLIAM SHAKESPEAR once said, "Love all, trust few, do wrong to none." ')
